@@ -1,5 +1,7 @@
 package atividade01.fibonnaci;
 
+import java.util.Scanner;
+
 public class sequenciaFibonnaci {
     public static int fib(int i) {
         if (i <= 1) {
@@ -12,8 +14,9 @@ public class sequenciaFibonnaci {
         inicia();
     }
     public static void inicia() {
-
-        for (int p = 0; p < 10; p++) {
+        Scanner n = new Scanner(System.in);
+        int l = Integer.parseInt(n.nextLine());
+        for (int p = 0; p < l; p++) {
             System.out.println(fib(p));
         }
     }
