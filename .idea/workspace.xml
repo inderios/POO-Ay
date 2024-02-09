@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d84e80a-95e5-4590-ae50-8b48e8eda3ca" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atividade01/Pergunta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atividade01/PerguntaDissertativa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atividade01/PerguntaME.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atividade01/PerguntaVF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atividade01/SistemaQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atividade01/SistemaQuizAyla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/atividade01/fibonnaci/sequenciaFibonnaci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/emAula/br/dcx/ayla/quiz/ProgramaQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/emAula/br/dcx/ayla/quiz/ProgramaQuiz.java" afterDir="false" />
     </list>
@@ -33,7 +39,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2bmnhdM3MwiCK8GPWmMTBY72r4Z" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +53,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.sequenciaFibonnaci">
     <configuration name="ProgramaQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="emAula.br.dcx.ayla.quiz.ProgramaQuiz" />
       <module name="POO-Ay" />
@@ -59,8 +67,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sequenciaFibonnaci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atividade01.fibonnaci.sequenciaFibonnaci" />
+      <module name="POO-Ay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="atividade01.fibonnaci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sequenciaFibonnaci" />
         <item itemvalue="Application.ProgramaQuiz" />
       </list>
     </recent_temporary>

@@ -22,9 +22,6 @@ public class ProgramaQuiz {
                 String [] alternativas = new String[quantAlt];
                 for (int i = 0; i < quantAlt; i++ ) {
                     System.out.println("Digite a proxima alternativa");
-                    if (i == quantAlt-1) {
-                        System.out.println("Digite a última alternativa");
-                    }
                     alternativas[i] = sc.nextLine();
                 }
                 pergunta.setAlternativas(alternativas);
